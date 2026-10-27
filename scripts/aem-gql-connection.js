@@ -1,4 +1,3 @@
-https://author-p233554-e2371906.adobeaemcloud.com/graphql/execute.json/wknd-shared/adventure-by-path;adventurePath=/content/dam/wknd-shared/en/adventures/bali-surf-camp/bali-surf-camp
 // Dynamic switching for Universal Editor (author) and .aem.page/aem.live (publish)
 function getAEMHost() {
   let host;
